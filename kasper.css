@@ -226,7 +226,7 @@ header .container .list i::after {
         display: block;
         width: 100%;
         padding: 17px;
-        border-bottom: 2px solid rebeccapurple;
+        border-bottom: 1px solid rebeccapurple;
         text-decoration: none;
         text-align: center;
         color: white;
@@ -234,7 +234,7 @@ header .container .list i::after {
     }
     
     header .container .list .links ul li .active {
-        border-bottom: 2px solid rebeccapurple;
+        border-bottom: 1px solid rebeccapurple;
     }
 
     .lines {
